@@ -12,3 +12,8 @@ wheels/
 .ipynb_checkpoints/
 
 .env
+
+vector_db
+vector_db2
+
+vector_db_2/
